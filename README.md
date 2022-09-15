@@ -1,4 +1,4 @@
-# awesome-PETs
+# awesome-PET (Privacy Enhancing Technology)
 
 ### Homomorphic Encryption
 * [FHE](https://github.com/google/fully-homomorphic-encryption) - Google's libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.
