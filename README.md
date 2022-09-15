@@ -11,3 +11,6 @@
 ### Differential Privacy
 * [differential-privacy](https://github.com/google/differential-privacy) - Google's differential privacy libraries.
 * [Diffprivlib](https://github.com/IBM/differential-privacy-library) - Diffprivlib: The IBM Differential Privacy Library
+
+### Guidance & Draft
+* [UK ICO](https://ico.org.uk/media/about-the-ico/consultations/4021464/chapter-5-anonymisation-pets.pdf) - Draft anonymisation, pseudonymisation and privacy enhancing technologies guidance
